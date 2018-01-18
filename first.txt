@@ -1,4 +1,9 @@
 hello
 #this is updated.
+<<<<<<< HEAD
 #this is again updated.
 heeeeheeeeeeeheee
+=======
+sddsds
+#this is amazing worldd
+>>>>>>> 6841f73a0ecb7fb5e7dcd20c35d9bb9d50736d18
